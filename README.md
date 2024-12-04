@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next js, vue**
 
-- 💬 Ask me about **javascript, React js**
+- 💬 Ask me about **Javascript, React js, TailwindCSS, SASS**
 
 - 📫 How to reach me **niloofarvalizadeh2@gmail.com**
 
